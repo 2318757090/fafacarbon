@@ -1,0 +1,66 @@
+2021-03-02 00:00:25,870 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-02 00:00:25,994 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-03-02 00:00:26,004 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-03-02 00:00:33,074 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on fafadeMacBook-Pro.local with PID 7277 (/Users/fafacarbon/Downloads/DemoAll/community/target/classes started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-03-02 00:00:33,078 INFO [restartedMain] c.a.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-03-02 00:00:33,144 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-03-02 00:00:33,145 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-03-02 00:00:35,466 INFO [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:249] Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-03-02 00:00:35,470 INFO [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:127] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-03-02 00:00:35,553 INFO [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:187] Finished Spring Data repository scanning in 28ms. Found 0 Redis repository interfaces.
+2021-03-02 00:00:36,650 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-03-02 00:00:36,660 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-02 00:00:36,661 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-03-02 00:00:36,661 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-02 00:00:36,743 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-03-02 00:00:36,744 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] Root WebApplicationContext: initialization completed in 3598 ms
+2021-03-02 00:00:37,786 INFO [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: eb7ecf36-0140-4ebb-8cf0-a09a46547b52
+
+2021-03-02 00:00:37,862 INFO [restartedMain] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6c7e08bd, org.springframework.security.web.context.SecurityContextPersistenceFilter@1fc9e148, org.springframework.security.web.header.HeaderWriterFilter@9de112c, org.springframework.security.web.authentication.logout.LogoutFilter@2e4e795d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@33f0590, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@78b339be, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3e5de7f5, org.springframework.security.web.session.SessionManagementFilter@733b9d51, org.springframework.security.web.access.ExceptionTranslationFilter@9310b33]
+2021-03-02 00:00:38,138 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-02 00:00:38,231 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-03-02 00:00:38,750 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-03-02 00:00:38,776 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-03-02 00:00:38,804 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-03-02 00:00:38,819 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 6.595 seconds (JVM running for 9.831)
+2021-03-02 00:01:37,447 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-02 00:01:37,448 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-03-02 00:01:37,466 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 17 ms
+2021-03-02 00:01:37,527 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:37]时间访问了[com.animalcrossing.community.service.UserService.findLoginTicketByTicket]
+2021-03-02 00:01:37,564 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-03-02 00:01:37,885 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-03-02 00:01:38,006 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:38]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:38,042 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:38]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:38,046 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:38]时间访问了[com.animalcrossing.community.service.LikeService.findUserLikeCount]
+2021-03-02 00:01:38,483 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:38]时间访问了[com.animalcrossing.community.service.FollowService.findFollowerCount]
+2021-03-02 00:01:38,489 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:38]时间访问了[com.animalcrossing.community.service.FollowService.findFolloweeCount]
+2021-03-02 00:01:38,492 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:38]时间访问了[com.animalcrossing.community.service.FollowService.hasFollowed]
+2021-03-02 00:01:41,257 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.UserService.findLoginTicketByTicket]
+2021-03-02 00:01:41,261 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:41,268 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.FollowService.unFollow]
+2021-03-02 00:01:41,385 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.UserService.findLoginTicketByTicket]
+2021-03-02 00:01:41,390 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:41,394 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:41,398 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.LikeService.findUserLikeCount]
+2021-03-02 00:01:41,400 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.FollowService.findFollowerCount]
+2021-03-02 00:01:41,402 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.FollowService.findFolloweeCount]
+2021-03-02 00:01:41,403 INFO [http-nio-8080-exec-6] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:41]时间访问了[com.animalcrossing.community.service.FollowService.hasFollowed]
+2021-03-02 00:01:42,922 INFO [http-nio-8080-exec-10] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.UserService.findLoginTicketByTicket]
+2021-03-02 00:01:42,928 INFO [http-nio-8080-exec-10] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:42,931 INFO [http-nio-8080-exec-10] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.FollowService.follow]
+2021-03-02 00:01:42,972 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.UserService.findLoginTicketByTicket]
+2021-03-02 00:01:42,976 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:42,980 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:42,983 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.LikeService.findUserLikeCount]
+2021-03-02 00:01:42,985 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.FollowService.findFollowerCount]
+2021-03-02 00:01:42,986 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.FollowService.findFolloweeCount]
+2021-03-02 00:01:42,989 INFO [http-nio-8080-exec-1] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:42]时间访问了[com.animalcrossing.community.service.FollowService.hasFollowed]
+2021-03-02 00:01:44,791 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.UserService.findLoginTicketByTicket]
+2021-03-02 00:01:44,795 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:44,800 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.UserService.findUserById]
+2021-03-02 00:01:44,808 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.LikeService.findUserLikeCount]
+2021-03-02 00:01:44,809 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.FollowService.findFollowerCount]
+2021-03-02 00:01:44,810 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.FollowService.findFolloweeCount]
+2021-03-02 00:01:44,812 INFO [http-nio-8080-exec-5] c.a.c.a.ServiceLogAspect [ServiceLogAspect.java:34] 用户[0:0:0:0:0:0:0:1]在[2021-03-02 00:01:44]时间访问了[com.animalcrossing.community.service.FollowService.hasFollowed]

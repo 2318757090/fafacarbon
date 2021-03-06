@@ -4,21 +4,29 @@ import com.animalcrossing.community.entity.DiscussPost;
 import com.animalcrossing.community.entity.Page;
 import com.animalcrossing.community.entity.User;
 import com.animalcrossing.community.service.DiscussPostService;
+import com.animalcrossing.community.service.LikeService;
 import com.animalcrossing.community.service.UserService;
+import com.animalcrossing.community.util.CommunityConstant;
+import com.animalcrossing.community.util.CommunityUtil;
+import com.animalcrossing.community.util.RedisKeyUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import java.util.*;
 
 @Controller
-public class HomeController {
+public class HomeController implements CommunityConstant {
     @Autowired
     private DiscussPostService discussPostService;
     @Autowired
     private UserService userService;
+    @Autowired
+    private LikeService likeService;
 
     @RequestMapping(path = "/index", method = RequestMethod.GET)
     public String getIndexPage(Model model, Page page) {
@@ -34,6 +42,9 @@ public class HomeController {
                 map.put("post", post);
                 User user = userService.findUserById(post.getUserId());
                 map.put("user", user);
+                //获取帖子点赞数量
+                long likeCount = likeService.findEntityLikeCount(ENTITY_TYPE_POST, post.getId());
+                map.put("likeCount",likeCount);
 
                 discussPosts.add(map);
             }
@@ -42,6 +53,10 @@ public class HomeController {
         model.addAttribute("discussPosts",discussPosts);
 
         return "index";
+    }
+    @RequestMapping(path="/error",method = RequestMethod.GET)
+    public String getErrorPage(HttpServletRequest request, HttpServletResponse response){
+        return "/error/500";
     }
 }
 

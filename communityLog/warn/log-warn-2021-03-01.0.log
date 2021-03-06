@@ -1,0 +1,362 @@
+2021-03-01 00:02:22,049 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m6s403ms).
+2021-03-01 00:12:35,765 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s698ms).
+2021-03-01 00:22:48,179 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s409ms).
+2021-03-01 00:33:03,923 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s734ms).
+2021-03-01 00:42:48,230 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s307ms).
+2021-03-01 00:53:01,986 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s679ms).
+2021-03-01 01:03:12,328 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m39s903ms).
+2021-03-01 01:13:30,474 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s135ms).
+2021-03-01 01:23:19,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s530ms).
+2021-03-01 01:23:48,634 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s629ms), soft-evicting connections from pool.
+2021-03-01 01:33:32,251 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s618ms).
+2021-03-01 01:36:33,329 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m30s425ms).
+2021-03-01 01:46:48,245 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s909ms).
+2021-03-01 01:56:34,424 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s179ms).
+2021-03-01 01:57:03,096 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s672ms), soft-evicting connections from pool.
+2021-03-01 02:06:53,997 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s901ms).
+2021-03-01 02:17:08,882 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s881ms).
+2021-03-01 02:26:55,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s122ms).
+2021-03-01 02:37:14,876 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s916ms).
+2021-03-01 02:47:31,925 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s42ms).
+2021-03-01 02:57:48,916 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s985ms).
+2021-03-01 03:07:35,830 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s914ms).
+2021-03-01 03:17:52,704 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s863ms).
+2021-03-01 03:28:09,436 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s738ms).
+2021-03-01 03:37:56,421 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s985ms).
+2021-03-01 03:48:13,450 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s22ms).
+2021-03-01 03:58:30,356 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s884ms).
+2021-03-01 04:08:15,442 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s86ms).
+2021-03-01 04:18:34,300 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s856ms).
+2021-03-01 04:28:51,245 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s958ms).
+2021-03-01 04:38:39,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s759ms).
+2021-03-01 04:39:07,820 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s816ms), soft-evicting connections from pool.
+2021-03-01 04:48:55,669 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s849ms).
+2021-03-01 04:59:12,669 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s16ms).
+2021-03-01 05:09:29,540 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s867ms).
+2021-03-01 05:19:16,498 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s958ms).
+2021-03-01 05:29:33,365 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s865ms).
+2021-03-01 05:39:50,311 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s948ms).
+2021-03-01 05:49:37,178 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s867ms).
+2021-03-01 05:59:54,072 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s888ms).
+2021-03-01 06:10:11,010 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s953ms).
+2021-03-01 06:19:57,820 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s810ms).
+2021-03-01 06:30:14,875 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s54ms).
+2021-03-01 06:40:31,877 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s982ms).
+2021-03-01 06:50:18,622 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s745ms).
+2021-03-01 06:50:46,965 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s343ms), soft-evicting connections from pool.
+2021-03-01 07:00:35,877 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s912ms).
+2021-03-01 07:10:52,775 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s883ms).
+2021-03-01 07:20:39,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s229ms).
+2021-03-01 07:30:56,806 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s777ms).
+2021-03-01 07:41:13,654 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s870ms).
+2021-03-01 07:51:31,018 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s336ms).
+2021-03-01 08:01:17,778 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s760ms).
+2021-03-01 08:11:35,038 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s257ms).
+2021-03-01 08:21:51,884 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s843ms).
+2021-03-01 08:31:38,777 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s893ms).
+2021-03-01 08:41:53,844 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s57ms).
+2021-03-01 08:52:12,812 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s958ms).
+2021-03-01 09:01:59,809 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s998ms).
+2021-03-01 09:12:16,744 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s935ms).
+2021-03-01 09:22:33,755 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s11ms).
+2021-03-01 09:32:50,541 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s777ms).
+2021-03-01 09:42:37,203 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s662ms).
+2021-03-01 09:52:54,195 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s985ms).
+2021-03-01 10:03:07,090 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s882ms).
+2021-03-01 10:12:57,975 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s885ms).
+2021-03-01 10:23:14,923 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s932ms).
+2021-03-01 10:33:29,763 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s836ms).
+2021-03-01 10:43:16,643 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s880ms).
+2021-03-01 10:53:35,573 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s790ms).
+2021-03-01 11:00:18,164 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m12s585ms).
+2021-03-01 11:02:40,123 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s43ms).
+2021-03-01 11:03:56,592 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s461ms).
+2021-03-01 12:03:56,927 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s855ms), soft-evicting connections from pool.
+2021-03-01 12:35:55,310 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s105ms), soft-evicting connections from pool.
+2021-03-01 12:42:05,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m37s888ms).
+2021-03-01 13:46:39,084 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,107 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,131 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,147 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,168 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,187 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,203 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,221 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,235 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,246 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,262 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,299 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,321 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,339 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,352 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,369 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,399 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,411 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,430 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:39,448 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,575 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,597 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,619 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,634 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,651 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,667 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,686 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,698 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,712 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,723 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,738 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,751 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,762 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,775 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,791 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,823 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,843 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,865 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,885 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:40,911 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:45,954 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:45,988 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,006 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,024 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,039 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,054 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,079 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,115 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,146 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,166 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,186 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,211 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,238 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,252 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,267 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,281 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,294 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,309 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,324 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:46,338 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,420 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,446 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,462 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,475 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,491 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,505 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,523 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,535 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,559 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,569 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,584 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,599 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,617 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,643 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,760 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,783 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,804 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,822 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,841 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:46:54,859 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:47:46,245 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.NumberFormatException: For input string: "abc"]
+2021-03-01 13:48:18,427 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,460 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,478 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,493 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,507 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,525 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,538 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,549 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,561 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,577 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,589 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,604 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,619 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,667 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,716 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,767 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,786 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,802 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,827 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:18,843 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:19,972 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:19,994 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,008 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,020 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,031 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,048 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,061 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,073 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,087 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,097 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,111 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,123 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,136 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,148 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,159 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,172 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,184 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,201 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,220 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:20,242 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,281 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,307 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,329 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,348 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,366 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,383 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,403 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,419 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,436 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,450 WARN [http-nio-8080-exec-5] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,467 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,505 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,568 WARN [http-nio-8080-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,607 WARN [http-nio-8080-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,637 WARN [http-nio-8080-exec-4] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,655 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,674 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,697 WARN [http-nio-8080-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,714 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:48:25,732 WARN [http-nio-8080-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [java.lang.IllegalArgumentException: 参数为空!]
+2021-03-01 13:59:40,205 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s119ms), soft-evicting connections from pool.
+2021-03-01 14:10:26,383 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s486ms).
+2021-03-01 14:20:40,133 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s755ms).
+2021-03-01 14:30:26,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s871ms).
+2021-03-01 14:31:53,067 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=26s473ms), soft-evicting connections from pool.
+2021-03-01 14:41:40,902 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s834ms).
+2021-03-01 14:51:53,123 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s233ms).
+2021-03-01 14:59:09,004 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m15s882ms).
+2021-03-01 15:01:40,154 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:779] HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s110ms), soft-evicting connections from pool.
+2021-03-01 15:08:47,688 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m37s522ms).
+2021-03-01 16:52:41,544 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:787] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m52s958ms).
+2021-03-01 17:20:09,997 WARN [restartedMain] o.s.b.SpringApplication [SpringApplication.java:819] Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [com.animalcrossing.community.config.RedisConfig] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@65a1bd6e]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:742)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:680)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:648)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:495)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:612)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1243)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:880)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:868)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:855)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:806)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.animalcrossing.community.CommunityApplication.main(CommunityApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/data/redis/connection/RedisConnectionFactory
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3244)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2387)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.data.redis.connection.RedisConnectionFactory
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:602)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:427)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:144)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 30 common frames omitted
+2021-03-01 17:20:11,785 WARN [restartedMain] o.s.b.SpringApplication [SpringApplication.java:819] Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [com.animalcrossing.community.config.RedisConfig] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3aee6939]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:742)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:680)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:648)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:495)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:612)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1243)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:880)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:868)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:855)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:806)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.animalcrossing.community.CommunityApplication.main(CommunityApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/data/redis/connection/RedisConnectionFactory
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3244)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2387)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.data.redis.connection.RedisConnectionFactory
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:602)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:427)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:144)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 30 common frames omitted
+2021-03-01 20:54:34,630 WARN [restartedMain] o.s.b.SpringApplication [SpringApplication.java:819] Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [com.animalcrossing.community.config.RedisConfig] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@43cf55f4]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:742)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:680)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:648)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:495)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:612)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1243)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:880)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:868)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:855)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:806)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.animalcrossing.community.CommunityApplication.main(CommunityApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/data/redis/connection/RedisConnectionFactory
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3244)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2387)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.data.redis.connection.RedisConnectionFactory
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:602)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:427)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:144)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 30 common frames omitted
+2021-03-01 22:09:27,855 WARN [http-nio-8080-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "${loginUser.id}"]
+2021-03-01 22:19:53,156 WARN [http-nio-8080-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:199] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "profile.html"]

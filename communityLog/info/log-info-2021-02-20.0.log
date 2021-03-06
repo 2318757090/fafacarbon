@@ -1,0 +1,197 @@
+2021-02-20 16:53:11,046 INFO [Thread-5] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:53:11,052 INFO [Thread-5] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 16:53:11,057 INFO [Thread-5] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 16:53:11,330 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on fafadeMacBook-Pro.local with PID 30067 (/Users/fafacarbon/Downloads/DemoAll/community/target/classes started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 16:53:11,331 INFO [restartedMain] c.a.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 16:53:11,920 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-02-20 16:53:11,922 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-20 16:53:11,922 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-02-20 16:53:11,922 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-02-20 16:53:11,954 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-02-20 16:53:11,954 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] Root WebApplicationContext: initialization completed in 611 ms
+2021-02-20 16:53:12,352 INFO [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: cc16323c-637f-4f9b-b1f7-49baf6c7894d
+
+2021-02-20 16:53:12,363 INFO [restartedMain] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4131a265, org.springframework.security.web.context.SecurityContextPersistenceFilter@44c73e26, org.springframework.security.web.header.HeaderWriterFilter@6fb3a521, org.springframework.security.web.authentication.logout.LogoutFilter@4e4cb4c4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5d5a4505, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2f326922, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7df6a818, org.springframework.security.web.session.SessionManagementFilter@3315e787, org.springframework.security.web.access.ExceptionTranslationFilter@69be075c]
+2021-02-20 16:53:12,411 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:53:12,440 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 16:53:12,505 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-02-20 16:53:12,522 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-20 16:53:12,532 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-02-20 16:53:12,538 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.266 seconds (JVM running for 26517.286)
+2021-02-20 16:53:12,542 INFO [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [ConditionEvaluationDeltaLoggingListener.java:63] Condition evaluation unchanged
+2021-02-20 16:53:33,526 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32005 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 16:53:33,531 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 16:53:35,522 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: e034cf27-673a-4d9b-a599-4aee57ac364c
+
+2021-02-20 16:53:35,690 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@daf22f0, org.springframework.security.web.context.SecurityContextPersistenceFilter@3453acd2, org.springframework.security.web.header.HeaderWriterFilter@7b2ccba5, org.springframework.security.web.authentication.logout.LogoutFilter@51a651c1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@71b6172c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@415ef4d8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6cbbb9c4, org.springframework.security.web.session.SessionManagementFilter@33188612, org.springframework.security.web.access.ExceptionTranslationFilter@57a6a933]
+2021-02-20 16:53:35,975 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:53:36,060 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 16:53:36,246 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 3.795 seconds (JVM running for 5.183)
+2021-02-20 16:53:36,811 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 16:53:36,972 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 16:53:37,128 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:53:37,133 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 16:53:37,142 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 16:58:30,552 INFO [Thread-8] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:58:30,936 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on fafadeMacBook-Pro.local with PID 30067 (/Users/fafacarbon/Downloads/DemoAll/community/target/classes started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 16:58:30,937 INFO [restartedMain] c.a.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 16:58:31,538 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-02-20 16:58:31,540 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-20 16:58:31,540 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-02-20 16:58:31,542 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-02-20 16:58:31,581 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-02-20 16:58:31,581 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] Root WebApplicationContext: initialization completed in 640 ms
+2021-02-20 16:58:31,896 INFO [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: e86ab368-64a6-46fc-9728-2ad984e92be0
+
+2021-02-20 16:58:31,909 INFO [restartedMain] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@709a1e8e, org.springframework.security.web.context.SecurityContextPersistenceFilter@55527949, org.springframework.security.web.header.HeaderWriterFilter@691106a4, org.springframework.security.web.authentication.logout.LogoutFilter@27d576f9, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2affbcf9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4bbaab24, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6e677832, org.springframework.security.web.session.SessionManagementFilter@538f3289, org.springframework.security.web.access.ExceptionTranslationFilter@2a7ab517]
+2021-02-20 16:58:31,960 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:58:32,070 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 16:58:32,233 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-02-20 16:58:32,284 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-20 16:58:32,290 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-02-20 16:58:32,303 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.69 seconds (JVM running for 26837.044)
+2021-02-20 16:58:32,306 INFO [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [ConditionEvaluationDeltaLoggingListener.java:63] Condition evaluation unchanged
+2021-02-20 16:58:33,208 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32061 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 16:58:33,221 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 16:58:36,095 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: 5d657ed1-353c-42c5-826a-161f903f4f43
+
+2021-02-20 16:58:36,258 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@55b5cd2b, org.springframework.security.web.context.SecurityContextPersistenceFilter@d499c13, org.springframework.security.web.header.HeaderWriterFilter@3913f206, org.springframework.security.web.authentication.logout.LogoutFilter@297c9a9b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3b42121d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@56c8e6f0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@40bb4f87, org.springframework.security.web.session.SessionManagementFilter@50ab56e2, org.springframework.security.web.access.ExceptionTranslationFilter@399ca607]
+2021-02-20 16:58:36,628 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:58:36,749 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 16:58:36,990 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 5.033 seconds (JVM running for 6.628)
+2021-02-20 16:58:37,633 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 16:58:37,878 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 16:58:38,043 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:58:38,048 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 16:58:38,057 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 16:59:52,816 INFO [Thread-13] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 16:59:52,927 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on fafadeMacBook-Pro.local with PID 30067 (/Users/fafacarbon/Downloads/DemoAll/community/target/classes started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 16:59:52,928 INFO [restartedMain] c.a.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 16:59:53,235 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-02-20 16:59:53,236 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-20 16:59:53,236 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-02-20 16:59:53,236 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-02-20 16:59:53,248 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-02-20 16:59:53,248 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] Root WebApplicationContext: initialization completed in 317 ms
+2021-02-20 16:59:53,305 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2021-02-20 16:59:53,318 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-02-20 17:00:09,049 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on fafadeMacBook-Pro.local with PID 30067 (/Users/fafacarbon/Downloads/DemoAll/community/target/classes started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:00:09,050 INFO [restartedMain] c.a.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:00:10,181 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-02-20 17:00:10,181 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-20 17:00:10,182 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-02-20 17:00:10,182 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-02-20 17:00:10,196 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-02-20 17:00:10,197 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] Root WebApplicationContext: initialization completed in 1144 ms
+2021-02-20 17:00:10,901 INFO [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: be47b590-ec6e-4e25-b866-18ed65965861
+
+2021-02-20 17:00:10,913 INFO [restartedMain] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@546ab920, org.springframework.security.web.context.SecurityContextPersistenceFilter@775824c5, org.springframework.security.web.header.HeaderWriterFilter@338ac597, org.springframework.security.web.authentication.logout.LogoutFilter@4bdef3cf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7fec18ec, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1a2fdcfb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@30467f52, org.springframework.security.web.session.SessionManagementFilter@7262b785, org.springframework.security.web.access.ExceptionTranslationFilter@5b4a6ecc]
+2021-02-20 17:00:10,951 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32072 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:00:10,956 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:00:11,060 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:00:11,126 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:00:11,258 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-02-20 17:00:11,303 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-20 17:00:11,310 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-02-20 17:00:11,316 INFO [restartedMain] c.a.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 2.335 seconds (JVM running for 26936.054)
+2021-02-20 17:00:11,318 INFO [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [ConditionEvaluationDeltaLoggingListener.java:63] Condition evaluation unchanged
+2021-02-20 17:00:13,281 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: 85853c5c-3cce-4d08-ae4d-3c882f23943d
+
+2021-02-20 17:00:13,440 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7b1e5e55, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e84f3c8, org.springframework.security.web.header.HeaderWriterFilter@363c32cc, org.springframework.security.web.authentication.logout.LogoutFilter@2da99821, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@64f9f455, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2ceca2ef, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4c1d59cd, org.springframework.security.web.session.SessionManagementFilter@270d43a7, org.springframework.security.web.access.ExceptionTranslationFilter@4087c7fc]
+2021-02-20 17:00:13,816 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:00:13,924 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:00:14,161 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 4.653 seconds (JVM running for 6.488)
+2021-02-20 17:00:14,658 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 17:00:14,853 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 17:00:14,994 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:00:14,996 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 17:00:15,004 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 17:00:43,338 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32080 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:00:43,353 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:00:45,548 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: 7bb68b47-dbba-49a9-8940-5ef3684fa003
+
+2021-02-20 17:00:45,697 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5dc769f9, org.springframework.security.web.context.SecurityContextPersistenceFilter@535b1ae6, org.springframework.security.web.header.HeaderWriterFilter@33188612, org.springframework.security.web.authentication.logout.LogoutFilter@4b1ec694, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66a53104, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@38ee7a9d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1b0e9707, org.springframework.security.web.session.SessionManagementFilter@733ec58b, org.springframework.security.web.access.ExceptionTranslationFilter@53d9826f]
+2021-02-20 17:00:46,043 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:00:46,152 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:00:46,395 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 4.035 seconds (JVM running for 5.305)
+2021-02-20 17:00:46,906 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 17:00:47,111 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 17:00:47,226 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:00:47,229 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 17:00:47,241 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 17:01:00,024 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32087 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:01:00,051 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:01:02,458 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: f62e2ee4-b324-4d3a-a94d-0f65b6d29491
+
+2021-02-20 17:01:02,603 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@74024f3, org.springframework.security.web.context.SecurityContextPersistenceFilter@66a53104, org.springframework.security.web.header.HeaderWriterFilter@438c9aa7, org.springframework.security.web.authentication.logout.LogoutFilter@2b4d4327, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2da99821, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4c1d59cd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@61ae0d43, org.springframework.security.web.session.SessionManagementFilter@56cc9f29, org.springframework.security.web.access.ExceptionTranslationFilter@7b2ccba5]
+2021-02-20 17:01:02,983 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:03,097 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:01:03,336 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 4.579 seconds (JVM running for 6.526)
+2021-02-20 17:01:03,810 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 17:01:04,019 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 17:01:04,135 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:04,139 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 17:01:04,157 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 17:01:09,877 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32091 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:01:09,878 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:01:12,074 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: ef271c04-fc31-4d6d-b675-ef683668327b
+
+2021-02-20 17:01:12,227 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@158e9f6e, org.springframework.security.web.context.SecurityContextPersistenceFilter@4733f6f5, org.springframework.security.web.header.HeaderWriterFilter@53d9826f, org.springframework.security.web.authentication.logout.LogoutFilter@220c9a63, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3453acd2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@17b016ac, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7a6ea47d, org.springframework.security.web.session.SessionManagementFilter@42d6c12d, org.springframework.security.web.access.ExceptionTranslationFilter@363c32cc]
+2021-02-20 17:01:12,723 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:12,836 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:01:13,100 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 4.099 seconds (JVM running for 5.587)
+2021-02-20 17:01:13,611 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 17:01:13,805 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 17:01:13,945 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:13,948 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 17:01:13,957 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 17:01:23,674 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32097 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:01:23,690 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:01:25,946 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: c3cb5368-2169-446c-bf81-c5c045e45118
+
+2021-02-20 17:01:26,078 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@66223d94, org.springframework.security.web.context.SecurityContextPersistenceFilter@50ab56e2, org.springframework.security.web.header.HeaderWriterFilter@b27b210, org.springframework.security.web.authentication.logout.LogoutFilter@629984eb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@75fd65c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6ccac6f4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2bc7db89, org.springframework.security.web.session.SessionManagementFilter@7b2ccba5, org.springframework.security.web.access.ExceptionTranslationFilter@63f855b]
+2021-02-20 17:01:26,456 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:26,562 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:01:26,796 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 4.004 seconds (JVM running for 5.375)
+2021-02-20 17:01:27,281 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 17:01:27,499 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 17:01:27,624 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:27,626 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 17:01:27,635 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-02-20 17:01:36,417 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:55] Starting MapperTests on fafadeMacBook-Pro.local with PID 32101 (started by fafacarbon in /Users/fafacarbon/Downloads/DemoAll/community)
+2021-02-20 17:01:36,430 INFO [main] c.a.c.MapperTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2021-02-20 17:01:38,666 INFO [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration [UserDetailsServiceAutoConfiguration.java:86] 
+
+Using generated security password: 89202216-6665-404b-8f90-0f6e0a98b253
+
+2021-02-20 17:01:38,823 INFO [main] o.s.s.w.DefaultSecurityFilterChain [DefaultSecurityFilterChain.java:43] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@65e22def, org.springframework.security.web.context.SecurityContextPersistenceFilter@4fb56bea, org.springframework.security.web.header.HeaderWriterFilter@7b5b5bfe, org.springframework.security.web.authentication.logout.LogoutFilter@7a6ea47d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@17b016ac, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66a53104, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4b1ec694, org.springframework.security.web.session.SessionManagementFilter@6c8f60f3, org.springframework.security.web.access.ExceptionTranslationFilter@33f17289]
+2021-02-20 17:01:39,175 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:39,285 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-20 17:01:39,538 INFO [main] c.a.c.MapperTests [StartupInfoLogger.java:61] Started MapperTests in 3.983 seconds (JVM running for 5.32)
+2021-02-20 17:01:40,068 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-02-20 17:01:40,300 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-02-20 17:01:40,421 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-20 17:01:40,425 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-02-20 17:01:40,436 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
