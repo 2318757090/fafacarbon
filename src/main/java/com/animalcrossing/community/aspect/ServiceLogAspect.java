@@ -27,6 +27,12 @@ public class ServiceLogAspect {
         //打印日志信息：用户[1.1.1.1] 在[时间] 访问了[方法路径]
         //获取用户IP
         ServletRequestAttributes servletRequestAttributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
+        //在使用消息队列发布站内信时 消费者获取消息的方式并不是通过request 所以汇报空指针异常错误 这里处理一下
+        if(servletRequestAttributes==null){
+            //表明是特殊调用
+            //先简单处理 不记录日志
+            return;
+        }
         HttpServletRequest httpServletRequest = servletRequestAttributes.getRequest();
         String ip = httpServletRequest.getRemoteHost();
         String now = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());

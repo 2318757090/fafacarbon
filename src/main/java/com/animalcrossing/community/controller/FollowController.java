@@ -1,7 +1,9 @@
 package com.animalcrossing.community.controller;
 
+import com.animalcrossing.community.entity.Event;
 import com.animalcrossing.community.entity.Page;
 import com.animalcrossing.community.entity.User;
+import com.animalcrossing.community.event.EventProducer;
 import com.animalcrossing.community.service.FollowService;
 import com.animalcrossing.community.service.UserService;
 import com.animalcrossing.community.util.CommunityConstant;
@@ -25,12 +27,23 @@ public class FollowController implements CommunityConstant {
     private HostHolder hostHolder;
     @Autowired
     private UserService userService;
+    @Autowired
+    private EventProducer eventProducer;
     
     @RequestMapping(path = "/follow",method = RequestMethod.POST)
     @ResponseBody
     public String follow(int entityType,int entityId){
         User user = hostHolder.getUser();
         followService.follow(user.getId(),entityType,entityId);
+        //关注的时候没有帖子id参数
+        Event event = new Event()
+                .setTopic(TOPIC_FOLLOW)
+                .setUserId(user.getId())
+                .setEntityType(entityType)
+                .setEntityId(entityId)
+                .setEntityUserId(entityId);
+        eventProducer.fireEvent(event);
+
         return CommunityUtil.getJSONString(0,"已关注！");
     }
     @RequestMapping(path = "/unfollow",method = RequestMethod.POST)

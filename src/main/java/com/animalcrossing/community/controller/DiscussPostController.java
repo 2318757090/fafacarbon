@@ -1,10 +1,8 @@
 package com.animalcrossing.community.controller;
 
 import com.animalcrossing.community.dao.CommentMapper;
-import com.animalcrossing.community.entity.Comment;
-import com.animalcrossing.community.entity.DiscussPost;
-import com.animalcrossing.community.entity.Page;
-import com.animalcrossing.community.entity.User;
+import com.animalcrossing.community.entity.*;
+import com.animalcrossing.community.event.EventProducer;
 import com.animalcrossing.community.service.CommentService;
 import com.animalcrossing.community.service.DiscussPostService;
 import com.animalcrossing.community.service.LikeService;
@@ -35,6 +33,8 @@ public class DiscussPostController implements CommunityConstant {
     private CommentService commentService;
     @Autowired
     private LikeService likeService;
+    @Autowired
+    private EventProducer eventProducer;
 
 
     @RequestMapping(path = "/add" , method = RequestMethod.POST)
@@ -50,6 +50,17 @@ public class DiscussPostController implements CommunityConstant {
         discussPost.setContent(content);
         discussPost.setCreateTime(new Date());
         discussPostService.addDiscussPost(discussPost);
+
+
+        //触发发帖事件 帖子存到es服务器中
+        Event event = new Event()
+                .setTopic(TOPIC_PUBLISH)
+                .setUserId(user.getId())
+                .setEntityType(ENTITY_TYPE_POST)
+                .setEntityId(discussPost.getId());
+        eventProducer.fireEvent(event);
+
+
         return CommunityUtil.getJSONString(0,"发布成功");
     }
     @RequestMapping(path = "/detail/{discussPostId}" , method = RequestMethod.GET)
@@ -116,6 +127,52 @@ public class DiscussPostController implements CommunityConstant {
         }
         model.addAttribute("comments",commentVoList);
         return "/site/discuss-detail";
+    }
+
+    @RequestMapping(path = "/top",method = RequestMethod.POST)
+    @ResponseBody
+    public String setTop(int discussPostId){
+        //将帖子置顶
+        discussPostService.updateType(discussPostId,1);
+        //同步es服务器
+        //触发发帖事件 帖子存到es服务器中
+        Event event = new Event()
+                .setTopic(TOPIC_PUBLISH)
+                .setUserId(hostHolder.getUser().getId())
+                .setEntityType(ENTITY_TYPE_POST)
+                .setEntityId(discussPostId);
+        eventProducer.fireEvent(event);
+        return CommunityUtil.getJSONString(0);
+    }
+    @RequestMapping(path = "/wonderful",method = RequestMethod.POST)
+    @ResponseBody
+    public String setWonderful(int discussPostId){
+        //将帖子加精
+        discussPostService.updateStatus(discussPostId,1);
+        //同步es服务器
+        //触发发帖事件 帖子存到es服务器中
+        Event event = new Event()
+                .setTopic(TOPIC_PUBLISH)
+                .setUserId(hostHolder.getUser().getId())
+                .setEntityType(ENTITY_TYPE_POST)
+                .setEntityId(discussPostId);
+        eventProducer.fireEvent(event);
+        return CommunityUtil.getJSONString(0);
+    }
+    @RequestMapping(path = "/delete",method = RequestMethod.POST)
+    @ResponseBody
+    public String setDelete(int discussPostId){
+        //将帖子删除
+        discussPostService.updateStatus(discussPostId,2);
+        //同步es服务器
+        //触发发帖事件 帖子存到es服务器中
+        Event event = new Event()
+                .setTopic(TOPIC_DELETE)
+                .setUserId(hostHolder.getUser().getId())
+                .setEntityType(ENTITY_TYPE_POST)
+                .setEntityId(discussPostId);
+        eventProducer.fireEvent(event);
+        return CommunityUtil.getJSONString(0);
     }
 
 }

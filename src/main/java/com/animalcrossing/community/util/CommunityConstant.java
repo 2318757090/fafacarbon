@@ -17,4 +17,25 @@ public interface CommunityConstant {
     int ENTITY_TYPE_COMMENT = 2;
     //实体类型 用户
     int ENTITY_TYPE_USER = 3;
+    //消息主题类型 评论
+    String TOPIC_COMMENT = "comment";
+    //消息主题类型 点赞
+    String TOPIC_LIKE = "like";
+    //消息主题类型 关注
+    String TOPIC_FOLLOW = "follow";
+    //消息主题类型_发帖
+    String TOPIC_PUBLISH = "publish";
+    //消息主题类型_删除帖
+    String TOPIC_DELETE = "delete";
+    //系统ID (站内信)
+    int SYSTEM_USER_ID = 1;
+    //系统角色 普通用户
+    String AUTHORITY_USER = "user";
+    //系统角色 管理员
+    String AUTHORITY_ADMIN = "admin";
+    //系统角色 版主
+    String AUTHORITY_MODERATOR = "moderator";
+
+
+
 }
